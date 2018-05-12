@@ -1,0 +1,47 @@
+_repo: Gunpowder-Treason-and-Plot-and-Other-Stories-for-Boys_36341
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36341-h/images/icover.jpg
+creator:
+  authors:
+  - agent_name: Avery, Harold
+    birthdate: 1867
+    deathdate: 1943
+    gutenberg_agent_id: '3270'
+    url: http://www.gutenberg.org/2009/agents/3270
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Avery
+  - agent_name: Townshend, R. B. (Richard Baxter)
+    alias: Townshend, Richard Baxter
+    birthdate: 1846
+    deathdate: 1923
+    gutenberg_agent_id: '38217'
+    url: http://www.gutenberg.org/2009/agents/38217
+  - agent_name: Whishaw, Frederick
+    aliases:
+    - Whishaw, Fred
+    - Whishaw, Frederick J.
+    birthdate: 1854
+    deathdate: 1934
+    gutenberg_agent_id: '38216'
+    url: http://www.gutenberg.org/2009/agents/38216
+    wikipedia: http://en.wikipedia.org/wiki/Fred_Whishaw
+description: ''
+gutenberg_issued: '2011-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36341'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- England -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Children''s stories'
+tableOfContents: When friends fall out -- Two heroes -- Lost in the Soudan -- The
+  wolfman -- In honour bound -- "Gunpowder, treason, and plot" -- The Cock-house Cup.
+title: Gunpowder Treason and Plot, and Other Stories for Boys
+url: http://www.gutenberg.org/ebooks/36341
